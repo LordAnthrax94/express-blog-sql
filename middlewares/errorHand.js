@@ -7,4 +7,4 @@ const errorHandlers = (err, req, res, next) =>{
   })
 }
 
-module.export = errorHandlers;
+module.exports = errorHandlers;

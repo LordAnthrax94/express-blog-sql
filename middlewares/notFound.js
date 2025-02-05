@@ -7,4 +7,4 @@ const notFoundHandlers = (req, res, next) =>{
   })
 }
 
-module.export = notFoundHandlers;
+module.exports = notFoundHandlers;

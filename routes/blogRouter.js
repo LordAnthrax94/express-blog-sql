@@ -16,4 +16,4 @@ router.patch('/:id', blogController.modify)
 
 router.delete('/:id', blogController.destroy)
 
-modulre.export = router;
+module.exports = router;

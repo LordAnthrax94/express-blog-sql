@@ -28,7 +28,7 @@ const destroy = (req, res) =>{
   res.send(`Elimina post ${id}`)
 }
 
-module.export={
+module.exports = {
   index,
   show,
   store,
